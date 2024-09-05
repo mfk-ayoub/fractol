@@ -65,3 +65,6 @@ Or run with some supported fractal:
 ```shell
 ./fractol m
 ```
+## CONTRIBUTING
+
+If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
